@@ -1,0 +1,16 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop"
+  },
+  "author": "Andrews Gyamfi <andrews.gyamfi@codethingy.com> (http://andrewsgyamfi.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.19.21",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
